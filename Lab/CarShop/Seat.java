@@ -1,4 +1,4 @@
-package CarShop;
+package Lab.CarShop;
 
 public class Seat extends CarImpl implements Sellable {
 

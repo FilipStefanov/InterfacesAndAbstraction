@@ -1,4 +1,4 @@
-package CarShop;
+package Lab.CarShop;
 
 public class Audi extends CarImpl implements Rentable{
     private Integer minRentday;

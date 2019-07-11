@@ -1,9 +1,4 @@
-package SayHello;
-
-import SayHello.Bulgarian;
-import SayHello.Chinese;
-import SayHello.European;
-import SayHello.Person;
+package Lab.SayHello;
 
 import java.util.ArrayList;
 import java.util.List;

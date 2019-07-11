@@ -1,4 +1,4 @@
-package SayHello;
+package Lab.SayHello;
 
 public abstract class BasePerson implements Person {
     private String name;

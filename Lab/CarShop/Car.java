@@ -1,4 +1,4 @@
-package CarShop;
+package Lab.CarShop;
 
 import java.io.Serializable;
 

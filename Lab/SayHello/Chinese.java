@@ -1,10 +1,11 @@
-package SayHello;
+package Lab.SayHello;
 
-public class European extends BasePerson {
+public class Chinese  extends BasePerson{
     private String name;
 
-    public European(String name) {
-       super(name);
+
+    public Chinese(String name) {
+        super(name);
     }
 
     @Override
@@ -14,6 +15,6 @@ public class European extends BasePerson {
 
     @Override
     public String sayHello() {
-        return "Hello";
+        return "Djydjybydjy";
     }
 }

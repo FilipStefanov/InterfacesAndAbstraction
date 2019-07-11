@@ -1,6 +1,4 @@
-package CarShop;
-
-import CarShop.*;
+package Lab.CarShop;
 
 public class Main {
     public static void main(String[] args) {

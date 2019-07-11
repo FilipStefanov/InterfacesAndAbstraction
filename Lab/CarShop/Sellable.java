@@ -1,4 +1,4 @@
-package CarShop;
+package Lab.CarShop;
 
 public interface Sellable  extends Car{
 

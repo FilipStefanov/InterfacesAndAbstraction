@@ -1,4 +1,4 @@
-package CarShop;
+package Lab.CarShop;
 
 public class CarImpl implements Car {
     private String model;

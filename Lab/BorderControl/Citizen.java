@@ -1,4 +1,4 @@
-package BorderControl;
+package Lab.BorderControl;
 
 public class Citizen implements Identifiable {
     private String name;

@@ -1,4 +1,4 @@
-package BorderControl;
+package Lab.BorderControl;
 
 public class Robot implements Identifiable {
 

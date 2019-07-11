@@ -1,4 +1,4 @@
-package SayHello;
+package Lab.SayHello;
 
 public interface Person {
 
