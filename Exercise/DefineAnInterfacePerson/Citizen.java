@@ -1,4 +1,4 @@
-package DefineAnInterfacePerson;
+package Exercise.DefineAnInterfacePerson;
 
 public class Citizen implements Identifiable, Person, Buyer {
 

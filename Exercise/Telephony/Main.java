@@ -1,8 +1,5 @@
-package Telephony;
+package Exercise.Telephony;
 
-import Telephony.Smartphone;
-
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;

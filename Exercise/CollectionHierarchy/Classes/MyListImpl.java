@@ -1,8 +1,8 @@
-package CollectionHierarchy.Classes;
+package Exercise.CollectionHierarchy.Classes;
 
-import CollectionHierarchy.Interfaces.AddRemovable;
-import CollectionHierarchy.Interfaces.Addable;
-import CollectionHierarchy.Interfaces.MyList;
+import Exercise.CollectionHierarchy.Interfaces.AddRemovable;
+import Exercise.CollectionHierarchy.Interfaces.Addable;
+import Exercise.CollectionHierarchy.Interfaces.MyList;
 
 
 public class MyListImpl extends Collection implements MyList, AddRemovable, Addable {

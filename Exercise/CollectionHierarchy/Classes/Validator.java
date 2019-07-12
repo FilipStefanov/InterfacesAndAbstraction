@@ -1,6 +1,4 @@
-package CollectionHierarchy.Classes;
-
-import java.util.Collections;
+package Exercise.CollectionHierarchy.Classes;
 
 public class Validator extends Collection {
 

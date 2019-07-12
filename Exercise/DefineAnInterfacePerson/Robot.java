@@ -1,4 +1,4 @@
-package DefineAnInterfacePerson;
+package Exercise.DefineAnInterfacePerson;
 
 public class Robot implements Identifiable{
     private String id;

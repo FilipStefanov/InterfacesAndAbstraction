@@ -1,7 +1,7 @@
-package CollectionHierarchy.Classes;
+package Exercise.CollectionHierarchy.Classes;
 
-import CollectionHierarchy.Interfaces.AddRemovable;
-import CollectionHierarchy.Interfaces.Addable;
+import Exercise.CollectionHierarchy.Interfaces.AddRemovable;
+import Exercise.CollectionHierarchy.Interfaces.Addable;
 
 
 public class AddRemoveCollection extends Collection implements Addable, AddRemovable {

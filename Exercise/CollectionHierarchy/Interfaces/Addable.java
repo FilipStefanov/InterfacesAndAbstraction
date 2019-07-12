@@ -1,4 +1,4 @@
-package CollectionHierarchy.Interfaces;
+package Exercise.CollectionHierarchy.Interfaces;
 
 public interface Addable {
 

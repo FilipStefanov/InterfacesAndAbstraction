@@ -1,6 +1,6 @@
-package CollectionHierarchy.Classes;
+package Exercise.CollectionHierarchy.Classes;
 
-import CollectionHierarchy.Interfaces.Addable;
+import Exercise.CollectionHierarchy.Interfaces.Addable;
 
 
 public class AddCollection extends Collection implements Addable {

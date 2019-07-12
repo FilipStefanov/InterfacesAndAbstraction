@@ -1,4 +1,4 @@
-package DefineAnInterfacePerson;
+package Exercise.DefineAnInterfacePerson;
 
 public class Rebel implements Person, Buyer{
         private String name;

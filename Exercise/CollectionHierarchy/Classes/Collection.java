@@ -1,4 +1,4 @@
-package CollectionHierarchy.Classes;
+package Exercise.CollectionHierarchy.Classes;
 
 import java.util.ArrayList;
 import java.util.List;

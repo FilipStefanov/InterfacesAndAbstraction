@@ -1,4 +1,4 @@
-package Telephony;
+package Exercise.Telephony;
 
 public interface Callable {
 

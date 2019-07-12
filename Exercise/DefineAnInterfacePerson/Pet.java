@@ -1,4 +1,4 @@
-package DefineAnInterfacePerson;
+package Exercise.DefineAnInterfacePerson;
 
 public class Pet implements Birthable {
     private String name;
